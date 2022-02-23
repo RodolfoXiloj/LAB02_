@@ -1,0 +1,32 @@
+LOG 2022/02/22 19:46:12
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:46:32
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:46:50
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:46:52
+Evento: Mostrar vista Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:47:05
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:47:12
+Evento: Mostrar vista Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:47:22
+Evento: Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:47:22
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----

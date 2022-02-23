@@ -1,0 +1,144 @@
+LOG 2018/02/18 19:18:32
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:18:39
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:06
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 2.005ms
+---- LOG END ----
+LOG 2018/02/18 19:19:07
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:12
+Evento: Resultado Busqueda por Nombre brandon
+Duracion: 2.006ms
+---- LOG END ----
+LOG 2018/02/18 19:19:16
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:18
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:24
+Evento: Resultado Busqueda por Apellido curtin
+Duracion: 1.002ms
+---- LOG END ----
+LOG 2018/02/18 19:19:26
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:28
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:32
+Evento: Resultado Busqueda por Club chi
+Duracion: 1.005ms
+---- LOG END ----
+LOG 2018/02/18 19:19:35
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:41
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:45
+Evento: Resultado Busqueda por Posicion gk
+Duracion: 1.003ms
+---- LOG END ----
+LOG 2018/02/18 19:19:52
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:54
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:19:57
+Evento: Resultado Busqueda por Salario mayor que 200000
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:02
+Evento: Resultado Busqueda por Salario mayor que 2000000
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:06
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:07
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:10
+Evento: Resultado Busqueda por Salario menor que 15000
+Duracion: 0.991ms
+---- LOG END ----
+LOG 2018/02/18 19:20:15
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:17
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:23
+Evento: Resultado Busqueda por Salario igual a 45000
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:26
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:30
+Evento: Mostar vista Eliminar Jugador 1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:31
+Evento: Eliminar Jugador1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:31
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:36
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:43
+Evento: datos en System.Web.HttpInputStream borrados con exito
+Duracion: 1.004ms
+---- LOG END ----
+LOG 2018/02/18 19:20:47
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:49
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:20:53
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 0.969ms
+---- LOG END ----
+LOG 2018/02/18 19:20:55
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:21:00
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:21:10
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----

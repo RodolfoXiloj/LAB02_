@@ -1,0 +1,24 @@
+LOG 2022/02/22 19:43:46
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:44:12
+Evento: Mostrar vista Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:44:29
+Evento: Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:44:29
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:44:32
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 19:44:37
+Evento: Resultado Busqueda por Posicion 1
+Duracion: 3.986ms
+---- LOG END ----

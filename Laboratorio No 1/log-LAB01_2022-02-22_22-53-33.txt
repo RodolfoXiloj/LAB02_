@@ -1,0 +1,12 @@
+LOG 2022/02/22 22:53:33
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:53:36
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:56:35
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 175296.894ms
+---- LOG END ----

@@ -1,0 +1,58 @@
+﻿@model Laboratorio_No_1.Models.Jugador
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4 class="">Player</h4>
+        <hr>
+        
+                <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="Id" name="Id" type="hidden" value="@Model.Id">
+
+                <input class="form-control text-box single-line valid" id="Name" name="Name" type="hidden" value="@Model.Name">
+
+                <input class="form-control text-box single-line" id="LastName" name="LastName" type="hidden" value="@Model.LastName">
+
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="Club">Club</label>
+            <div class="col-md-10">
+                <input class="form-control text-box single-line" id="Club" name="Club" type="text" value="@Model.Club">
+                <span class="field-validation-valid text-danger" data-valmsg-for="Club" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="Salary">Salary</label>
+            <div class="col-md-10">
+                <input class="form-control text-box single-line" data-val="true" data-val-number="El campo Salary debe ser un número." data-val-required="El campo Salary es obligatorio." id="Salary" name="Salary" type="text" value="@Model.Salary">
+                <span class="field-validation-valid text-danger" data-valmsg-for="Salary" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+
+                <input class="form-control text-box single-line" id="position" name="position" type="hidden" value="@Model.position">
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default">
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

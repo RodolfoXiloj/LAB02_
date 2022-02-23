@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Laboratorio_No_1.Models.Jugador>
+
+@{
+    ViewBag.Title = "Players";
+}
+
+<h2>Players</h2>
+
+<p>
+    @Html.ActionLink("Create New Player", "Create")
+
+
+</p>
+<p ALIGN=right>
+    @Html.ActionLink("Delete by CSV", "Deleting")&nbsp;&nbsp;&nbsp; @Html.ActionLink("Import CSV", "Upload")
+</p>
+<p ALIGN="left">
+    @Html.ActionLink("Search by Name", "SerchByName") &nbsp;&nbsp;&nbsp;
+    @Html.ActionLink("Search by Last Name", "SearchByLastName")&nbsp;&nbsp;&nbsp; @Html.ActionLink("Search by Club", "SearchByClub")
+    &nbsp;&nbsp;&nbsp; @Html.ActionLink("Search by Position", "SearchByPosition")
+    &nbsp;&nbsp;&nbsp; Search By Salary: @Html.ActionLink("Greater than", "SearchBySalary", new { order = 1 })&nbsp;&nbsp;&nbsp;
+    @Html.ActionLink("Less than", "SearchBySalary", new { order = 2 })&nbsp;&nbsp;&nbsp;
+    @Html.ActionLink("Equal to", "SearchBySalary", new { order = 3 })
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Club)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.position)
+        </th>
+        <th></th>
+    </tr>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Club)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Salary)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.position)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+
+        }
+
+    }
+
+</table>
+<p ALIGN=right>
+
+</p>

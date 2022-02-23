@@ -1,0 +1,68 @@
+LOG 2018/02/18 13:26:50
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:27:06
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:27:12
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 3.008ms
+---- LOG END ----
+LOG 2018/02/18 13:27:18
+Evento: Mostrar vista Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:27:40
+Evento: Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:27:40
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:27:43
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:27:58
+Evento: Mostar vista Eliminar Jugador 1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:28:00
+Evento: Eliminar Jugador1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:28:00
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:28:02
+Evento: Mostar vista Eliminar Jugador 2
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:28:03
+Evento: Eliminar Jugador2
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:28:03
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:28:08
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:28:13
+Evento: Resultado Busqueda por Club CHI
+Duracion: 1.003ms
+---- LOG END ----
+LOG 2018/02/18 13:28:18
+Evento: Mostar vista Eliminar Jugador 301
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 13:28:20
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----

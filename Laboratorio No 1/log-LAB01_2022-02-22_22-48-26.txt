@@ -1,0 +1,40 @@
+LOG 2022/02/22 22:48:26
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:48:29
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:48:34
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:48:37
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:48:42
+Evento: datos en System.Web.HttpInputStream borrados con exito
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:48:47
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:48:51
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:50:23
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:50:24
+Evento: Falla en carga de .csv
+Duracion: 0.998ms
+---- LOG END ----
+LOG 2022/02/22 22:50:30
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 0ms
+---- LOG END ----

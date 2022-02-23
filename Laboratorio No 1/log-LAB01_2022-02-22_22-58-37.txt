@@ -1,0 +1,28 @@
+LOG 2022/02/22 22:58:37
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:58:40
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:58:45
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:58:53
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:58:55
+Evento: Resultado Busqueda por Posicion 2
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:58:59
+Evento: Resultado Busqueda por Posicion 3
+Duracion: 0ms
+---- LOG END ----
+LOG 2022/02/22 22:59:02
+Evento: Resultado Busqueda por Posicion 2
+Duracion: 0ms
+---- LOG END ----

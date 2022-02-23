@@ -1,0 +1,8 @@
+LOG 2018/02/18 23:18:36
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 23:18:56
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----

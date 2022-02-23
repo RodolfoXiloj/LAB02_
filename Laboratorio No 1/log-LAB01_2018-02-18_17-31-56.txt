@@ -1,0 +1,20 @@
+LOG 2018/02/18 17:31:56
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:31:57
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:32:02
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 1.004ms
+---- LOG END ----
+LOG 2018/02/18 17:32:03
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:33:31
+Evento: datos en System.Web.HttpInputStream borrados con exito
+Duracion: 1.003ms
+---- LOG END ----

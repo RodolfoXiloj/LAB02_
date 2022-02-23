@@ -1,0 +1,64 @@
+LOG 2018/02/18 19:30:24
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:30:32
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:30:35
+Evento: Mostrar vista Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:30:41
+Evento: Crear Jugador
+Duracion: 1.035ms
+---- LOG END ----
+LOG 2018/02/18 19:30:41
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:30:43
+Evento: Mostar vista Eliminar Jugador 1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:30:44
+Evento: Eliminar Jugador1
+Duracion: 1.003ms
+---- LOG END ----
+LOG 2018/02/18 19:30:45
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:30:46
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:30:51
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:30:56
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:31:05
+Evento: datos en System.Web.HttpInputStream borrados con exito
+Duracion: 4214.890ms
+---- LOG END ----
+LOG 2018/02/18 19:31:09
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:31:15
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:31:21
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 19:31:25
+Evento: datos en System.Web.HttpInputStream borrados con exito
+Duracion: 0ms
+---- LOG END ----

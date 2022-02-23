@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Liga MLS</h1>
+    <p class="lead">
+        Bienvenido a la Base de datos de los jugadores de la liga MLS, donde podrás, ver, crear, editar o elimnar jugadores.
+        También podrás ver el salario de los jugadores, su posición y al Club al que pertenecen.
+    </p>
+</div>
+
+<div class="row">
+    <div  class="col-md-4">
+        <h2>¿Qué Lista desea utilizar?</h2>
+        <p>
+            El programa para el control de los jugadores de la liga MLS, funciona con dos tipos de listas diferentes
+            una lista artesanal(Creación propia), o también ofrece manejar el programa con la lista implementada de C#.
+            Así que tú decides:
+
+        </p>
+        <p  align ="center"><a class="btn btn-default" @Html.ActionLink("Lista C#", "Index", "Jugador") </a> <a class="btn btn-default" @Html.ActionLink("Lista Artesanal", "IndexGeneric", "Jugador") </a></p>
+    </div>
+</div>

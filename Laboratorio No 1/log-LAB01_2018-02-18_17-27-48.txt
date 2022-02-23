@@ -1,0 +1,88 @@
+LOG 2018/02/18 17:27:48
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:27:51
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:28:00
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 2.005ms
+---- LOG END ----
+LOG 2018/02/18 17:28:11
+Evento: Mostar vista Ediar Jugador 1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:28:16
+Evento: Editar Jugador 1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:28:16
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:28:20
+Evento: Mostar vista Eliminar Jugador 1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:28:22
+Evento: Eliminar Jugador1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:28:22
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:28:28
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:28:32
+Evento: Resultado Busqueda por Nombre Brandon
+Duracion: 2.259ms
+---- LOG END ----
+LOG 2018/02/18 17:28:42
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:29:33
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:29:38
+Evento: datos en System.Web.HttpInputStream borrados con exito
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:29:46
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:30:25
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:30:27
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:30:32
+Evento: datos en System.Web.HttpInputStream borrados con exito
+Duracion: 0.664ms
+---- LOG END ----
+LOG 2018/02/18 17:30:34
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:30:46
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 2.005ms
+---- LOG END ----
+LOG 2018/02/18 17:30:57
+Evento: Mostrar vista Borrar por .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 17:31:02
+Evento: datos en System.Web.HttpInputStream borrados con exito
+Duracion: 1.687ms
+---- LOG END ----

@@ -1,0 +1,80 @@
+LOG 2018/02/18 16:15:24
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:15:28
+Evento: Mostrar vista Crear Jugador
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:15:32
+Evento: Mostrar vista Importar .csv
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:15:58
+Evento: System.Web.HttpInputStream importado con exito
+Duracion: 1.957ms
+---- LOG END ----
+LOG 2018/02/18 16:16:06
+Evento: Mostar vista Ediar Jugador 1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:11
+Evento: Editar Jugador 1
+Duracion: 0.217ms
+---- LOG END ----
+LOG 2018/02/18 16:16:11
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:15
+Evento: Mostrar detalles Jugador1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:17
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:18
+Evento: Mostar vista Eliminar Jugador 1
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:19
+Evento: Eliminar Jugador1
+Duracion: 0.971ms
+---- LOG END ----
+LOG 2018/02/18 16:16:19
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:24
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:28
+Evento: Resultado Busqueda por Salario mayor que 100000
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:37
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:46
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:49
+Evento: Resultado Busqueda por Salario igual a 45000
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:16:52
+Evento: Mostrar vista index
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:17:02
+Evento: Mostrar vista Busqueda
+Duracion: 0ms
+---- LOG END ----
+LOG 2018/02/18 16:17:07
+Evento: Resultado Busqueda por Posicion gk
+Duracion: 0ms
+---- LOG END ----

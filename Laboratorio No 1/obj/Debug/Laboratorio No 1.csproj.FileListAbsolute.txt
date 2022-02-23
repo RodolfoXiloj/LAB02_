@@ -1,0 +1,368 @@
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\ApplicationInsights.config
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\csc.exe
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\vbc.exe
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Laboratorio No 1.dll.config
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Laboratorio No 1.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Laboratorio No 1.pdb
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Antlr3.Runtime.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.Web.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Newtonsoft.Json.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Helpers.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Mvc.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Optimization.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Razor.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\WebGrease.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.Web.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Helpers.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Mvc.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Optimization.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Razor.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Antlr3.Runtime.pdb
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\Newtonsoft.Json.xml
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.Razor.resources.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\obj\Debug\Laboratorio No 1.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\obj\Debug\Laboratorio No 1.dll
+C:\Users\pablo\Desktop\Github\Laboratorio-No.1\Laboratorio No 1\Laboratorio No 1\obj\Debug\Laboratorio No 1.pdb
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\ApplicationInsights.config
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\csc.exe
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\vbc.exe
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Laboratorio No 1.dll.config
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Laboratorio No 1.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Laboratorio No 1.pdb
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Antlr3.Runtime.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.Web.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Newtonsoft.Json.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Helpers.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Mvc.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Optimization.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Razor.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\WebGrease.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.Web.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Helpers.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Mvc.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Optimization.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.Razor.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Antlr3.Runtime.pdb
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\Newtonsoft.Json.xml
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.Razor.resources.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\obj\Debug\Laboratorio No 1.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\obj\Debug\Laboratorio No 1.dll
+C:\Users\pablo\Desktop\Github\LAB01\Laboratorio No 1\Laboratorio No 1\obj\Debug\Laboratorio No 1.pdb
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\ApplicationInsights.config
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\csc.exe
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\vbc.exe
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Laboratorio No 1.dll.config
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Laboratorio No 1.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Laboratorio No 1.pdb
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Antlr3.Runtime.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.Web.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Newtonsoft.Json.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.Helpers.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.Mvc.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.Optimization.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.Razor.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\WebGrease.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.Web.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.Helpers.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.Mvc.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.Optimization.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.Razor.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Antlr3.Runtime.pdb
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\Newtonsoft.Json.xml
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\es\System.Web.Razor.resources.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\obj\Debug\Laboratorio No 1.csprojResolveAssemblyReference.cache
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\obj\Debug\Laboratorio No 1.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\obj\Debug\Laboratorio No 1.pdb
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\obj\Debug\Laboratorio No 1.pdb
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\obj\Debug\Laboratorio No 1.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\ApplicationInsights.config
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\csc.exe
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\vbc.exe
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Laboratorio No 1.dll.config
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Laboratorio No 1.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Laboratorio No 1.pdb
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Antlr3.Runtime.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.Web.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Newtonsoft.Json.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.Helpers.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.Mvc.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.Optimization.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.Razor.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\WebGrease.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.Web.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.Helpers.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.Mvc.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.Optimization.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.Razor.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Antlr3.Runtime.pdb
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\Newtonsoft.Json.xml
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\es\System.Web.Razor.resources.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\obj\Debug\Laboratorio No 1.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\ListasArtesanales.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\Laboratorio No 1\bin\ListasArtesanales.pdb
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\ListasArtesanales.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\Laboratorio No 1\bin\ListasArtesanales.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\ApplicationInsights.config
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\csc.exe
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\vbc.exe
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Laboratorio No 1.dll.config
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Laboratorio No 1.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Laboratorio No 1.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Antlr3.Runtime.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\ListasArtesanales.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.Web.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Newtonsoft.Json.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.Helpers.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.Mvc.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.Optimization.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.Razor.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.WebPages.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\WebGrease.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\ListasArtesanales.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.Web.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.Helpers.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.Mvc.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.Optimization.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.Razor.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.WebPages.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Antlr3.Runtime.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\Newtonsoft.Json.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\es\System.Web.Razor.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\obj\Debug\Laboratorio No 1.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\obj\Debug\Laboratorio No 1.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\Laboratorio No 1\obj\Debug\Laboratorio No 1.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\ApplicationInsights.config
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\csc.exe
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\vbc.exe
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Laboratorio No 1.dll.config
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Laboratorio No 1.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Laboratorio No 1.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Antlr3.Runtime.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\ListasArtesanales.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.Web.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Newtonsoft.Json.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.Helpers.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.Mvc.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.Optimization.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.Razor.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.WebPages.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\WebGrease.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\ListasArtesanales.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.Web.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.Helpers.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.Mvc.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.Optimization.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.Razor.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.WebPages.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Antlr3.Runtime.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\Newtonsoft.Json.xml
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\es\System.Web.Razor.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\obj\Debug\Laboratorio No 1.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\obj\Debug\Laboratorio No 1.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\des\Laboratorio No 1\obj\Debug\Laboratorio No 1.pdb

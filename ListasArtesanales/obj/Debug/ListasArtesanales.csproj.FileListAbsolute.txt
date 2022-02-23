@@ -1,0 +1,15 @@
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\ListasArtesanales\bin\Debug\ListasArtesanales.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\ListasArtesanales\bin\Debug\ListasArtesanales.pdb
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\ListasArtesanales\obj\Debug\ListasArtesanales.dll
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\ListasArtesanales\obj\Debug\ListasArtesanales.pdb
+C:\Users\pablo\Desktop\Github\lab01_ED1\ListasArtesanales\bin\Debug\ListasArtesanales.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\ListasArtesanales\bin\Debug\ListasArtesanales.pdb
+C:\Users\pablo\Desktop\Github\lab01_ED1\ListasArtesanales\obj\Debug\ListasArtesanales.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Desktop\Github\lab01_ED1\ListasArtesanales\obj\Debug\ListasArtesanales.dll
+C:\Users\pablo\Desktop\Github\lab01_ED1\ListasArtesanales\obj\Debug\ListasArtesanales.pdb
+C:\Users\jmoll\Documents\URL\ReposGitED1\lab01_ED1\ListasArtesanales\obj\Debug\ListasArtesanales.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\ListasArtesanales\bin\Debug\ListasArtesanales.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\ListasArtesanales\bin\Debug\ListasArtesanales.pdb
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\ListasArtesanales\obj\Debug\ListasArtesanales.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\ListasArtesanales\obj\Debug\ListasArtesanales.dll
+C:\Users\Personal\Downloads\lab01_ED1-master\lab01_ED1-master\ListasArtesanales\obj\Debug\ListasArtesanales.pdb
